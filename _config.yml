@@ -1,5 +1,5 @@
 name: Dan Briones
 markdown: kramdown
 theme: minima
-
+encoding: UTF-8
 permalink: /blog/:year/:month/:day/:title
