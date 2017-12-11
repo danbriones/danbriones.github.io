@@ -1,1 +1,5 @@
+name: Dan Briones
+markdown: kramdown
 theme: minima
+
+permalink: /blog/:year/:month/:day/:title
