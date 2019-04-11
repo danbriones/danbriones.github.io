@@ -5,4 +5,4 @@ README File for My Personal Site.
 
 
 
-cription of the site goes here.
+description of the site goes here.
